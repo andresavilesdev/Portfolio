@@ -2,7 +2,7 @@
 FROM nginx:latest   
 
 # Copiar los archivos del sitio web a la carpeta de NGINX
-COPY . /usr/share/nginx/html/portfolio
+COPY . /usr/share/nginx/html
 
 # Exponer el puerto 80 para acceder a la página
 EXPOSE 80
