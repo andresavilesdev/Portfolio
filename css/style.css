@@ -771,7 +771,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   PORTFOLIO
+//--//-->   PROJECTS
 ======================================*/
 
 .work-box {
@@ -789,6 +789,7 @@ a:hover {
 .work-img {
   display: block;
   overflow: hidden;
+  width: 100%;
 }
 
 .work-img img {
